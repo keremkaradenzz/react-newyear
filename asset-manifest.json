@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-newyear/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-newyear/static/js/main.f517324f.chunk.js",
+    "main.js.map": "/react-newyear/static/js/main.f517324f.chunk.js.map",
+    "runtime-main.js": "/react-newyear/static/js/runtime-main.c4578368.js",
+    "runtime-main.js.map": "/react-newyear/static/js/runtime-main.c4578368.js.map",
+    "static/js/2.3e16db23.chunk.js": "/react-newyear/static/js/2.3e16db23.chunk.js",
+    "static/js/2.3e16db23.chunk.js.map": "/react-newyear/static/js/2.3e16db23.chunk.js.map",
+    "index.html": "/react-newyear/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-newyear/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3e16db23.chunk.js.LICENSE.txt": "/react-newyear/static/js/2.3e16db23.chunk.js.LICENSE.txt",
+    "static/media/newyear.c4488330.jpg": "/react-newyear/static/media/newyear.c4488330.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4578368.js",
+    "static/js/2.3e16db23.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f517324f.chunk.js"
+  ]
+}
